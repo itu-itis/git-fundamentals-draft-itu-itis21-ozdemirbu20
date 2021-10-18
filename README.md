@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub Büşra Özdemir, 150200036
 
 ## 🤓 Course overview and learning outcomes 
 
