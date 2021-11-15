@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 
 
+=======
+h1 {
+  color: red;
+	font-size: 24 pt;
+	text-decoration: underline;
+	font-family: Tahoma,Helvetica,sans-serif;
+	}
+em {
+	color: green;
+	font-style: normal;
+	background-color: lightgray;
+	font-weight: bold;
+	}
+>>>>>>> 2863d9b554bc057e4d231689c46fcd6c4b0b9cf3
